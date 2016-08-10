@@ -1,2 +1,2 @@
 # test-homestay1
-testing 
+testing ok
